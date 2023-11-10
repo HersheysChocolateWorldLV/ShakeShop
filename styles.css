@@ -118,6 +118,12 @@ div.container {
   font-weight: 700;  
 }
 
+#bottom2 {
+
+  color: rgb(224, 224, 224); 
+  font-weight: 700;  
+}
+
 .navbarbottom {
   display: flex;
   flex-flow: row wrap;
